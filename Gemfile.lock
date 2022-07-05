@@ -1,3 +1,10 @@
+GIT
+  remote: git@github.com:awesome-print/awesome_print.git
+  revision: 8a7ff0aabacbebf694c3e27242809219a96d5a3b
+  specs:
+    awesome_print (1.9.2)
+
+
 GEM
   remote: https://rubygems.org/
   specs:
